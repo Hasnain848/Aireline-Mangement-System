@@ -1,6 +1,6 @@
 # ✈️ Airline Management System
 
-![🖼️ Project Screenshot](image.png)
+![🖼️ Project Screenshot](Image.png)
 
 ## 📌 Project Overview
 The **Airline Management System** is a C++ console-based application designed to streamline airline operations such as **flight scheduling, ticket booking, passenger records, and staff management**.  
